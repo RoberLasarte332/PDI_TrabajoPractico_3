@@ -1,0 +1,9 @@
+# Ignorar el entorno virtual
+.venv/
+.venv2/
+venv/
+ENV/
+
+# Ignorar los archivos creados por codigo
+frames*
+Output-tirada*

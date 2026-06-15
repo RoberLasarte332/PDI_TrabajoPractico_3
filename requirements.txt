@@ -1,0 +1,5 @@
+--pre
+numpy
+matplotlib
+opencv-contrib-Python
+Pillow

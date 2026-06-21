@@ -6,4 +6,4 @@ ENV/
 
 # Ignorar los archivos creados por codigo
 frames*
-Output-tirada*
+output*
